@@ -3,7 +3,7 @@ import { SortingAlgorithms } from "./helpers/sortingAlgorithms.js";
 import { sleep } from "./helpers/util.js";
 
 //Initial number of bars
-let nBars = 15;
+let nBars = 12;
 
 //Get input of number of elements
 let numbersBars = document.getElementById('numbersBars');
